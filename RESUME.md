@@ -8,8 +8,17 @@ Advanced Problem Solving, Technical Documentation, Remote Collaboration, Critica
 
 EXPERIENCE
 
-1800-Accountant, Hybrid, Clearwater — IT Support Engineer
-July 2025 - Present
+Raymond James, Hybrid, Saint Petersburg, FL - Desktop Support Analyst
+July 2026 - Present
+Deliver Tier 2 and Tier 3 technical support across an enterprise Windows environment, driving rapid issue resolution and maintaining high client satisfaction metrics.
+ Monitor service desk daily operations and handle technical escalations across hardware, OS (Windows 11), and core business applications like Microsoft 365 and Outlook.
+ Collaborate with cross-functional teams, internal management, and external technology vendors to resolve complex infrastructure and software incidents efficiently.
+ Lead small-to-medium IT projects and process improvement initiatives to streamline user onboarding/provisioning and optimize desktop support workflows.
+ Interface directly with end-users and executive leadership with a high degree of diplomacy, providing hands-on training and guidance on new hardware and software deployments.
+ Help establish departmental best practices, evaluate service desk SLAs, and recommend strategic improvements to enhance overall user productivity.
+
+1800-Accountant, Hybrid, Clearwater — IT Support Specialist
+July 2025 - July 2026
 • Provide comprehensive technical support for hybrid staff, managing hardware, software, and networking issues to ensure minimal downtime.  
 • Manage user access and security permissions within Salesforce, Amazon Connect, Google Workspace and Microsoft 365 environments.  
 • Implement and maintain protocols and troubleshooting methods to protect sensitive financial data and ensure compliance with internal IT policies and SLAs. Developed Workspace Flows to Automate Data Collection securely and efficiently. 
